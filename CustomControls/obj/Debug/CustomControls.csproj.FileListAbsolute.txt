@@ -1,0 +1,13 @@
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\bin\Debug\CustomControls.dll
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\bin\Debug\Model.dll
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\bin\Debug\Model.pdb
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\CustomControls.csprojAssemblyReference.cache
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\Start.OrderList.resources
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\CustomControls.OrderListRow.resources
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\Start.RowElement.resources
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\CustomControls.csproj.CopyComplete
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\tple2\OneDrive\Documents\GitHub\InHolland_Y1T4_Group6\G6\CustomControls\obj\Debug\CustomControls.pdb
